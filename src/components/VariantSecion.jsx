@@ -1,10 +1,10 @@
-import label1 from "../assets/label1.png"
-import label2 from "../assets/label2.png"
-import label3 from "../assets/label3.png"
-import label4 from "../assets/label4.png"
-import label5 from "../assets/label5.png"
-import label6 from "../assets/label6.png"
-import label7 from "../assets/label7.png"
+import label1 from "../assets/Label1.png"
+import label2 from "../assets/Label2.png"
+import label3 from "../assets/Label3.png"
+import label4 from "../assets/Label4.png"
+import label5 from "../assets/Label5.png"
+import label6 from "../assets/Label6.png"
+import label7 from "../assets/Label7.png"
 
 const VariantSecion = () => {
   return (
